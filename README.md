@@ -4,6 +4,8 @@ An example game made with Phaser Editor 2D. Based on Phaser 3, Webpack 5, TypeSc
 
 ![screenshot](.github/a-day-in-the-beach-screenshot.png)
 
+[You play the game here](https://phaserjs.github.io/editor-starter-example-a-day-in-the-beach/)
+
 ## First steps
 
 This project requires [Node.js](https://nodejs.org) and [NPM.js](https://www.npmjs.com). It is recommended that you learn the basics of [Webpack.js](https://www/webpack.js.org).
