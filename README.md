@@ -1,7 +1,5 @@
 # A day in the beach, an example game
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/PhaserEditor2D/starter-example-a-day-in-the-beach)
-
 An example game made with Phaser Editor 2D. Based on Phaser 3, Webpack 5, TypeScript, and Phaser Editor 2D v3.
 
 ![screenshot](.github/a-day-in-the-beach-screenshot.png)
@@ -32,33 +30,6 @@ This project requires [Node.js](https://nodejs.org) and [NPM.js](https://www.npm
     ```
 
     It is generated in the `/dist` folder.
-
-## Run the editor
-
-* You can run the editor using the `editor` NPM script, defined in the `package.json` file:
-
-    ```bash
-    $ npm install
-    $ npm run editor
-    ```
-
-* If you are in a remote environment (like the Gitpod.io IDE), then run the editor like this:
-
-    ```bash
-    $ npm run editor-remote
-    ```
-
-* If you want to see all the editor options, run:
-
-    ```bash
-    $ npx phasereditor2d-launcher -help
-    ```
-
-* If Phaser Editor 2D Core is globally installed, you can run:
-
-    ```bash
-    $ PhaserEditor2D -project .
-    ```
 
 ## Phaser Editor 2D considerations
 
