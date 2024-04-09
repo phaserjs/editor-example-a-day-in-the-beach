@@ -54,8 +54,8 @@
                                     "label": "pushActionScript",
                                     "nestedPrefabs": [
                                         {
-                                            "prefabId": "cd71b752-50e1-4922-99e6-3bc1a67081c1",
-                                            "id": "fbe5e7ae-26e4-4cff-8cc3-b7e2ff6f3bd9",
+                                            "prefabId": "79d67f29-9d77-44ce-8b99-861c77fdf63a",
+                                            "id": "a27c5911-e621-4a96-848b-87a2cd72393c",
                                             "unlock": [
                                                 "sceneKey"
                                             ],

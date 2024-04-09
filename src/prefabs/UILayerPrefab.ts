@@ -6,11 +6,11 @@
 import Phaser from "phaser";
 import FloatingObjectScript from "../script-nodes/ui/FloatingObjectScript";
 import OnPointerDownStartSceneScript from "../script-nodes/ui/OnPointerDownStartSceneScript";
-import { OnPointerDownScript } from "@phasereditor2d/scripts-core";
-import { PushActionScript } from "@phasereditor2d/scripts-simple-animations";
-import { EmitEventActionScript } from "@phasereditor2d/scripts-core";
+import { OnPointerDownScript } from "@phaserjs/editor-scripts-core";
+import { PushActionScript } from "@phaserjs/editor-scripts-simple-animations";
+import { EmitEventActionScript } from "@phaserjs/editor-scripts-core";
 import SwitchImageActionScript from "../script-nodes/ui/SwitchImageActionScript";
-import { OnEventScript } from "@phasereditor2d/scripts-core";
+import { OnEventScript } from "@phaserjs/editor-scripts-core";
 import UpdateTextAction from "../script-nodes/gameplay/UpdateTextAction";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */

@@ -15,20 +15,19 @@
   "license": "MIT",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
-    "copy-webpack-plugin": "^8.1.0",
-    "html-webpack-plugin": "^5.3.1",
-    "phaser-asset-pack-hashing": "^1.0.5",
-    "phasereditor2d-launcher": "^3.60.1",
-    "ts-loader": "^8.0.18",
-    "typescript": "^4.2.3",
-    "webpack": "^5.28.0",
+    "copy-webpack-plugin": "^8.1.1",
+    "html-webpack-plugin": "^5.6.0",
+    "phaser-asset-pack-hashing": "^1.0.6",
+    "ts-loader": "^8.4.0",
+    "typescript": "^4.9.5",
+    "webpack": "^5.91.0",
     "webpack-clean-plugin": "^0.2.3",
-    "webpack-cli": "^4.6.0"
+    "webpack-cli": "^4.10.0"
   },
   "dependencies": {
-    "@phasereditor2d/scripts-core": "^1.0.6",
-    "@phasereditor2d/scripts-simple-animations": "^1.0.1",
-    "phaser": "^3.70.0",
-    "webpack-dev-server": "^4.7.2"
+    "@phaserjs/editor-scripts-core": "^2.0.0",
+    "@phaserjs/editor-scripts-simple-animations": "^2.0.0",
+    "phaser": "^3.80.1",
+    "webpack-dev-server": "^4.15.2"
   }
 }

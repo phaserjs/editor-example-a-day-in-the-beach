@@ -3,11 +3,11 @@
 
 /* START OF COMPILED CODE */
 
-import { OnPointerDownScript } from "@phasereditor2d/scripts-core";
-import { ScriptNode } from "@phasereditor2d/scripts-core";
+import { OnPointerDownScript } from "@phaserjs/editor-scripts-core";
+import { ScriptNode } from "@phaserjs/editor-scripts-core";
 import Phaser from "phaser";
-import { PushActionScript } from "@phasereditor2d/scripts-simple-animations";
-import { StartSceneActionScript } from "@phasereditor2d/scripts-core";
+import { PushActionScript } from "@phaserjs/editor-scripts-simple-animations";
+import { StartSceneActionScript } from "@phaserjs/editor-scripts-core";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
 

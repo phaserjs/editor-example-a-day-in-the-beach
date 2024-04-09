@@ -1,8 +1,8 @@
 {
     "plugins": [],
     "scripts": [
-        "@phasereditor2d/scripts-core",
-        "@phasereditor2d/scripts-simple-animations"
+        "@phaserjs/editor-scripts-core",
+        "@phaserjs/editor-scripts-simple-animations"
     ],
     "skip": [
         "dist"

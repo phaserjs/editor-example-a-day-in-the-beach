@@ -3,17 +3,17 @@ import { GameSounds } from "../GameSounds";
 /* START OF COMPILED CODE */
 
 import Phaser from "phaser";
-import { OnPointerDownScript } from "@phasereditor2d/scripts-core";
-import { PushActionScript } from "@phasereditor2d/scripts-simple-animations";
-import { StartSceneActionScript } from "@phasereditor2d/scripts-core";
-import { OnAwakeScript } from "@phasereditor2d/scripts-core";
-import { MoveInSceneActionScript } from "@phasereditor2d/scripts-simple-animations";
+import { OnPointerDownScript } from "@phaserjs/editor-scripts-core";
+import { PushActionScript } from "@phaserjs/editor-scripts-simple-animations";
+import { StartSceneActionScript } from "@phaserjs/editor-scripts-core";
+import { OnAwakeScript } from "@phaserjs/editor-scripts-core";
+import { MoveInSceneActionScript } from "@phaserjs/editor-scripts-simple-animations";
 import OnPointerDownOpenURLScript from "../script-nodes/ui/OnPointerDownOpenURLScript";
-import { CallbackActionScript } from "@phasereditor2d/scripts-core";
+import { CallbackActionScript } from "@phaserjs/editor-scripts-core";
 import SwitchImageActionScript from "../script-nodes/ui/SwitchImageActionScript";
 import FloatingObjectScript from "../script-nodes/ui/FloatingObjectScript";
-import { OnEventScript } from "@phasereditor2d/scripts-core";
-import { ExecActionScript } from "@phasereditor2d/scripts-core";
+import { OnEventScript } from "@phaserjs/editor-scripts-core";
+import { ExecActionScript } from "@phaserjs/editor-scripts-core";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
 

@@ -53,7 +53,7 @@ export default class Level extends Phaser.Scene {
 		underwater_4.alphaBottomRight = 0;
 
 		// uiLayer
-		const uiLayer = new UILayerPrefab(this);
+		const uiLayer = new UILayerPrefab(this, 0, 0);
 		this.add.existing(uiLayer);
 
 		// gameplayScript

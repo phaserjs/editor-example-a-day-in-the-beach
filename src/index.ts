@@ -13,11 +13,6 @@ const game = new Phaser.Game({
     },
     physics: {
         default: "arcade",
-        arcade: {
-            gravity: {
-                y: 0
-            }
-        }
     },
     scene: [Preload, Welcome, Level],
 });
