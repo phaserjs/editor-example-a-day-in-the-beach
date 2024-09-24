@@ -5,9 +5,9 @@
 
 import Phaser from "phaser";
 import FloatingObjectScript from "../script-nodes/ui/FloatingObjectScript";
-import { OnAwakeScript } from "@phaserjs/editor-scripts-core";
-import { FadeActionScript } from "@phaserjs/editor-scripts-simple-animations";
-import { DurationConfigComp } from "@phaserjs/editor-scripts-simple-animations";
+import { OnAwakeScript } from "@phaserjs/editor-scripts-quick";
+import { FadeActionScript } from "@phaserjs/editor-scripts-quick";
+import { DurationConfigComp } from "@phaserjs/editor-scripts-quick";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
 

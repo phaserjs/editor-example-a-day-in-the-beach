@@ -3,10 +3,10 @@
 
 /* START OF COMPILED CODE */
 
-import { ScriptNode } from "@phaserjs/editor-scripts-core";
+import { ScriptNode } from "@phaserjs/editor-scripts-base";
 import Phaser from "phaser";
-import { OnEventScript } from "@phaserjs/editor-scripts-core";
-import { CallbackActionScript } from "@phaserjs/editor-scripts-core";
+import { OnEventScript } from "@phaserjs/editor-scripts-quick";
+import { CallbackActionScript } from "@phaserjs/editor-scripts-quick";
 /* START-USER-IMPORTS */
 import Star from "../../prefabs/Star";
 import { GameSounds } from "../../GameSounds";

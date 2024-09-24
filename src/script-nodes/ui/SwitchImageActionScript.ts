@@ -3,8 +3,8 @@
 
 /* START OF COMPILED CODE */
 
-import { SpriteScript } from "@phaserjs/editor-scripts-core";
-import { ScriptNode } from "@phaserjs/editor-scripts-core";
+import { SpriteScript } from "@phaserjs/editor-scripts-quick";
+import { ScriptNode } from "@phaserjs/editor-scripts-base";
 import Phaser from "phaser";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
